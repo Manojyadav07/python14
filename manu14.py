@@ -1,2 +1,2 @@
-a,b=list(map(int,input().split()))
-print(a**b)
+m,n=list(map(int,input().split()))
+print(pow(m,n))
